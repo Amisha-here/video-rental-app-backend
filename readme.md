@@ -1,6 +1,14 @@
 ## Introduction
 
 This project is the backend of Vidly, an imaginary video rental app.
+
+---
+
+
+<p align="center"><img src="./db.png" width="800"></p>
+
+---
+
 ## Setup
 
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
